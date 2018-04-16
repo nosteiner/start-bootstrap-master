@@ -37,7 +37,7 @@ header {
   margin-bottom: 15px;
 }
 
-section {
+.section {
   padding: 150px 0;
 }
 
@@ -48,4 +48,34 @@ section {
   font-style: italic;
   font-weight: 400;
   margin-bottom: 75px;
+}
+
+#nav{
+  font-size: 13px;
+  font-family: "Droid Serif", "Helvetica Neue", sans-serif;
+  height: 50px;
+  background-color: #f8f8f8;
+  color: #777777;
+  font-weight: bold;
+  padding: 15px;
+}
+.col-lg-1{
+  text-align: center;
+}
+
+.services{
+  font-size: 60px;
+  padding-top: 225px;
+  height: 330px;
+  text-align: center;
+  background-color: #ffffff;
+  color: rgb(51, 51, 51);
+}
+
+#lorem{
+  font-size: 22px;
+  font-style: italic;
+  text-align: center;
+  background-color: #ffffff;
+  color: rgb(105, 105, 105);
 }
